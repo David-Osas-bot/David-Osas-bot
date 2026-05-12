@@ -1,10 +1,21 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Welcome&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer&descSize=20&descAlignY=75)
 
-## 👋 Hey, I'm David!
+👋 Hey, I'm David! 
 
-💻 Full-Stack Developer | 🛠️ Builder of cool web apps | 🚀 Always shipping
+Also known as David-Osas-bot
 
-I love turning ideas into code and code into products.
+### 🚀 Creative Frontend Developer | Full-Stack Explorer | Coding is da Hobby 
+
+I am a **Frontend Developer with 2+ years of professional experience** dedicated to building high-performance, visually stunning, and user-centric web applications. I bridge the gap between complex backend logic and elegant frontend aesthetics.
+
+- 🛠️ **What I do:** Specializing in **React**, **JavaScript**, and **Tailwind CSS** to build responsive interfaces, while scaling robust backends with **Laravel** and **PHP**.
+
+- 🎨 **Design-Driven:** I don't just code; I care about the user journey. I use **Framer Motion** and modern UI/UX principles to make web interactions feel alive.
+
+- 📖 **Currently Building:** When I'm not shipping code, I'm crafting the world of **"Ali Agro"** a Nigeria Farm-to-Market platform ready to eliminate the middlemen and Agricultural Price Hikes, It's a problem-solving app that move farm products from the farm to your doorstep, A world where technology meets Agriculture.
+
+- 🎯 **Goal:** To build products that solve real-world problems through clean code and exceptional design.
+
 ## 🔥 My Stats
 <div align="center">
 
