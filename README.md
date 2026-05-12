@@ -1,18 +1,15 @@
-<!-- ## 🔥 My Stats
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Welcome&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer&descSize=20&descAlignY=75)
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=David-Osas-bot&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=David-Osas-bot&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+## 👋 Hey, I'm David!
 
-## 🚀 Top Languages
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=David-Osas-bot&layout=compact&theme=dark" alt="Top Langs" /> -->
+💻 Full-Stack Developer | 🛠️ Builder of cool web apps | 🚀 Always shipping
 
+I love turning ideas into code and code into products.
 ## 🔥 My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=David-Osas-bot&theme=dark&border_radius=10)](https://git.io/streak-stats)
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Osas-bot&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![David's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=David-Osas-bot&show_icons=true&theme=dark)
 
 ## 🛠️ Tech Stack
 
