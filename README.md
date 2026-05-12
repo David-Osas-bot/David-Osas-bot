@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Welcome&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer&descSize=20&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Welcome&fontSize=60&fontColor=fff&animation=fadeIn&desc=I%20Am%20A%20Full-Stack%20Developer&descSize=20&descAlignY=75)
 
 👋 Hey, I'm David! 
 
@@ -6,7 +6,7 @@ Also known as David-Osas-bot
 
 ### 🚀 Creative Frontend Developer | Full-Stack Explorer | Coding is da Hobby 
 
-I am a **Frontend Developer with 2+ years of professional experience** dedicated to building high-performance, visually stunning, and user-centric web applications. I bridge the gap between complex backend logic and elegant frontend aesthetics.
+I am a **FullStack Developer with 2+ years of professional experience** dedicated to building high-performance, visually stunning, and user-centric web applications. I bridge the gap between complex mind-blowing ideas and dynamic massive mind-blowing application that meets the needs of the World.
 
 - 🛠️ **What I do:** Specializing in **React**, **JavaScript**, and **Tailwind CSS** to build responsive interfaces, while scaling robust backends with **Laravel** and **PHP**.
 
