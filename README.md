@@ -6,12 +6,15 @@
 
 I love turning ideas into code and code into products.
 ## 🔥 My Stats
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=David-Osas-bot&theme=dark&border_radius=10)](https://git.io/streak-stats)
 
 ![David's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=David-Osas-bot&show_icons=true&theme=dark)
 
+</div>
 ## 🛠️ Tech Stack
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,4 +24,4 @@ I love turning ideas into code and code into products.
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
+</div>
