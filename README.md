@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Welcome&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer&descSize=20&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Welcome&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer&descSize=20&descAlignY=75)
 
 ## 👋 Hey, I'm David!
 
