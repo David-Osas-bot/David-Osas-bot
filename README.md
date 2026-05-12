@@ -18,8 +18,8 @@ I love turning ideas into code and code into products.
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/PHP-6DA55F?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/PHP-6DA55F?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/PHP-6DA55F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/PHP-6DA55F?style=for-the-badge&logo=firebase&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-6DA55F?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-6DA55F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-6DA55F?style=for-the-badge&logo=firebase&logoColor=white)
 
 
